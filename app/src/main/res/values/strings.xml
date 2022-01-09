@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitUserDisplayApplication</string>
+    <string name="please_check_network">請檢察網路是否正常連線</string>
+    <string name="search_keyword_cant_empty">搜尋關鍵字不得為空</string>
+</resources>
